@@ -5,4 +5,4 @@
 <br/>
 
 # 题目
-[https://github.com/00feng00/diaryBrush/issues/1](第一题：无重复最长子串)
+[第一题：无重复最长子串](https://github.com/00feng00/diaryBrush/issues/1)
