@@ -10,3 +10,5 @@
 [第二题：什么是时间切片](https://github.com/00feng00/diaryBrush/issues/2)
 
 [第三题：数字在排序数组中出现的次数](https://github.com/00feng00/diaryBrush/issues/3)
+
+[第四题：实现Promise.all]()
