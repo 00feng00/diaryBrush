@@ -14,3 +14,5 @@
 [第四题：实现Promise.all](https://github.com/00feng00/diaryBrush/issues/4)
 
 [第五题：Bind方法的实现](https://github.com/00feng00/diaryBrush/issues/5)
+
+[第六题：vue-router路由监听的原理](https://github.com/00feng00/diaryBrush/issues/6)
