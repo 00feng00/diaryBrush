@@ -18,3 +18,5 @@
 [第六题：vue-router路由监听的原理](https://github.com/00feng00/diaryBrush/issues/6)
 
 [第七题：给定['a','b'],['A','B'],['1','0']，输出['aA1','aA0','aB1','aB0','bA1','bA0','bB1','bB0']](https://github.com/00feng00/diaryBrush/issues/7)
+
+[第八题：实现事件总线EventBus](https://github.com/00feng00/diaryBrush/issues/8)
