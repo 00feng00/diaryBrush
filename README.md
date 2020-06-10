@@ -23,4 +23,4 @@
 
 [第九题：wepack-dev-server热更新功能实现原理](https://github.com/00feng00/diaryBrush/issues/9)
 
-[第十题：wepack-dev-server热更新功能实现原理](https://github.com/00feng00/diaryBrush/issues/10)
+[第十题：分析vue编译过程，templete编译成render函数](https://github.com/00feng00/diaryBrush/issues/10)
