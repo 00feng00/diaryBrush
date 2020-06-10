@@ -22,3 +22,5 @@
 [第八题：实现事件总线EventBus](https://github.com/00feng00/diaryBrush/issues/8)
 
 [第九题：wepack-dev-server热更新功能实现原理](https://github.com/00feng00/diaryBrush/issues/9)
+
+[第十题：wepack-dev-server热更新功能实现原理](https://github.com/00feng00/diaryBrush/issues/10)
