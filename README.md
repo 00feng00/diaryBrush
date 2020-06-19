@@ -26,3 +26,7 @@
 [第十题：分析vue编译过程，templete编译成render函数](https://github.com/00feng00/diaryBrush/issues/10)
 
 [第十一题：javascript浅拷贝深拷贝实现](https://github.com/00feng00/diaryBrush/issues/11)
+
+[第十二题：http与websocket的区别](https://github.com/00feng00/diaryBrush/issues/12)
+
+[第十三题：http与websocket的区别](https://github.com/00feng00/diaryBrush/issues/13)
