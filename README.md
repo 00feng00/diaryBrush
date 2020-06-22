@@ -30,3 +30,6 @@
 [第十二题：vue虚拟dom实现原理](https://github.com/00feng00/diaryBrush/issues/12)
 
 [第十三题：http与websocket的区别](https://github.com/00feng00/diaryBrush/issues/13)
+
+[第十四题：前端请求并发控制](https://github.com/00feng00/diaryBrush/issues/14)
+
