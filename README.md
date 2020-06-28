@@ -35,3 +35,6 @@
 
 [第十五题：浏览器缓存机制介绍与缓存策略剖析](https://github.com/00feng00/diaryBrush/issues/15)
 
+[第十六题：HTTPS的加密过程](https://github.com/00feng00/diaryBrush/issues/16)
+
+
