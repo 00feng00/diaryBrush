@@ -1,6 +1,6 @@
 # Daily-Interview-Question
 
-工作日每天记录一道大厂前端面试题，一年后再回头，会感谢曾经努力的自己！
+工作日每天记录一道前端面试题，一年后再回头，会感谢曾经努力的自己！
 
 ## 公众号推荐
 <img src="https://00feng00.github.io/img/zefeng.jpg" width="200px" height="200px">
