@@ -39,3 +39,5 @@
 [第十六题：HTTPS的加密过程](https://github.com/00feng00/diaryBrush/issues/16)
 
 [第十七题：简述什么是XSS 和 CSRF及预防措施](https://github.com/00feng00/diaryBrush/issues/17)
+
+[第十八题：实现fetch取消](https://github.com/00feng00/diaryBrush/issues/18)
