@@ -47,3 +47,5 @@
 [第二十题：react diff算法，key的作用，setData的机制，事件合成](https://github.com/00feng00/diaryBrush/issues/20)
 
 [第二十一题：vue双向绑定原理](https://github.com/00feng00/diaryBrush/issues/21)
+
+[第二十二题：vue nextTick实现原理](https://github.com/00feng00/diaryBrush/issues/22)
