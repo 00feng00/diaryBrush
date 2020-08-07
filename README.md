@@ -49,3 +49,6 @@
 [第二十一题：vue双向绑定原理](https://github.com/00feng00/diaryBrush/issues/21)
 
 [第二十二题：vue nextTick实现原理](https://github.com/00feng00/diaryBrush/issues/22)
+
+[第二十三题：实现sum函数，使得下面输出结果一致。(函数柯里化)](https://github.com/00feng00/diaryBrush/issues/23)
+
