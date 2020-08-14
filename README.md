@@ -53,3 +53,6 @@
 [第二十三题：实现sum函数，使得下面输出结果一致。(函数柯里化)](https://github.com/00feng00/diaryBrush/issues/23)
 
 [第二十四题：Reflect 对象创建目的](https://github.com/00feng00/diaryBrush/issues/24)
+
+[第二十五题：如何模拟实现 Array.prototype.splice](https://github.com/00feng00/diaryBrush/issues/25)
+
