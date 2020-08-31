@@ -57,3 +57,6 @@
 [第二十五题：如何模拟实现 Array.prototype.splice](https://github.com/00feng00/diaryBrush/issues/25)
 
 [第二十六题：Babel 怎么把字符串解析成 AST，是怎么进行词法/语法分析的](https://github.com/00feng00/diaryBrush/issues/26)
+
+[第二十七题：最大射程](https://github.com/00feng00/diaryBrush/issues/27)
+
