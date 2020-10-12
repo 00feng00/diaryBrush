@@ -60,3 +60,5 @@
 
 [第二十七题：最大射程](https://github.com/00feng00/diaryBrush/issues/27)
 
+[第二十爸题：对以下字符进行压缩编码](https://github.com/00feng00/diaryBrush/issues/28)
+
