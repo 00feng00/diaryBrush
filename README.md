@@ -62,3 +62,5 @@
 
 [第二十八题：对以下字符进行压缩编码](https://github.com/00feng00/diaryBrush/issues/28)
 
+[第二十九题：数组扁平化](https://github.com/00feng00/diaryBrush/issues/29)
+
