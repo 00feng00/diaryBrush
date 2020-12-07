@@ -66,3 +66,5 @@
 
 [第三十题：React Diff算法](https://github.com/00feng00/diaryBrush/issues/30)
 
+[第三十一题：同时发送3次请求，有100个请求](https://github.com/00feng00/diaryBrush/issues/31)
+
