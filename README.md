@@ -64,3 +64,5 @@
 
 [第二十九题：数组扁平化](https://github.com/00feng00/diaryBrush/issues/29)
 
+[第三十题：React Diff算法](https://github.com/00feng00/diaryBrush/issues/30)
+
