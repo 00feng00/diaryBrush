@@ -68,3 +68,4 @@
 
 [第三十一题：同时发送3次请求，有100个请求](https://github.com/00feng00/diaryBrush/issues/31)
 
+[第三十二题：随机产生100个数字，数字范围1-100，并且它们不重复](https://github.com/00feng00/diaryBrush/issues/32)
